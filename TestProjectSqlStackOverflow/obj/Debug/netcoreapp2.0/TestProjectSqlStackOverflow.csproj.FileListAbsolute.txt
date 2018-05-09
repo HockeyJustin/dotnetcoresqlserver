@@ -1,0 +1,12 @@
+C:\Users\JustinJones\source\repos\TestProjectSqlStackOverflow\TestProjectSqlStackOverflow\bin\Debug\netcoreapp2.0\TestProjectSqlStackOverflow.deps.json
+C:\Users\JustinJones\source\repos\TestProjectSqlStackOverflow\TestProjectSqlStackOverflow\bin\Debug\netcoreapp2.0\TestProjectSqlStackOverflow.runtimeconfig.json
+C:\Users\JustinJones\source\repos\TestProjectSqlStackOverflow\TestProjectSqlStackOverflow\bin\Debug\netcoreapp2.0\TestProjectSqlStackOverflow.runtimeconfig.dev.json
+C:\Users\JustinJones\source\repos\TestProjectSqlStackOverflow\TestProjectSqlStackOverflow\bin\Debug\netcoreapp2.0\TestProjectSqlStackOverflow.dll
+C:\Users\JustinJones\source\repos\TestProjectSqlStackOverflow\TestProjectSqlStackOverflow\bin\Debug\netcoreapp2.0\TestProjectSqlStackOverflow.pdb
+C:\Users\JustinJones\source\repos\TestProjectSqlStackOverflow\TestProjectSqlStackOverflow\obj\Debug\netcoreapp2.0\TestProjectSqlStackOverflow.csprojAssemblyReference.cache
+C:\Users\JustinJones\source\repos\TestProjectSqlStackOverflow\TestProjectSqlStackOverflow\obj\Debug\netcoreapp2.0\TestProjectSqlStackOverflow.csproj.CoreCompileInputs.cache
+C:\Users\JustinJones\source\repos\TestProjectSqlStackOverflow\TestProjectSqlStackOverflow\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\JustinJones\source\repos\TestProjectSqlStackOverflow\TestProjectSqlStackOverflow\obj\Debug\netcoreapp2.0\TestProjectSqlStackOverflow.AssemblyInfoInputs.cache
+C:\Users\JustinJones\source\repos\TestProjectSqlStackOverflow\TestProjectSqlStackOverflow\obj\Debug\netcoreapp2.0\TestProjectSqlStackOverflow.AssemblyInfo.cs
+C:\Users\JustinJones\source\repos\TestProjectSqlStackOverflow\TestProjectSqlStackOverflow\obj\Debug\netcoreapp2.0\TestProjectSqlStackOverflow.dll
+C:\Users\JustinJones\source\repos\TestProjectSqlStackOverflow\TestProjectSqlStackOverflow\obj\Debug\netcoreapp2.0\TestProjectSqlStackOverflow.pdb
